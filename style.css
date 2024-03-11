@@ -1,3 +1,7 @@
 body{background-color: rgb(153, 255, 153);
 
 }
+
+.cabecalho-imagem{
+min-width: 20;
+}
